@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  padding: 25px;
+}
+
+.container-banner p {
+  margin-bottom: 54px;
+}
+
+.btn-medium {
+  background-color: white;
+  color: rgb(150, 150, 150);
+  border: 1px solid rgb(150, 150, 150);
+  padding: 10px;
+  border-radius: 20px
+}
+
+.btn-medium:hover {
+  background-color: white;
+  color: rgb(20, 20, 20);
+  border: 1px solid rgb(20, 20, 20);
+}
